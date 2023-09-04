@@ -1,0 +1,11 @@
+# Recursos Adicionais
+
+- [Armazenamento na nuvem AWS](https://aws.amazon.com/products/storage/)
+- [BLog de armazenamento na AWS](https://aws.amazon.com/blogs/storage/)
+- [Tutoriais práticos: Armazenamento](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=category%23storage&awsf.getting-started-content-type=content-type%23hands-on&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-level=*all)
+- [Histórias de clientes da AWS: Armazenamento](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23storage&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
+- [AWS Database Migration Service](https://aws.amazon.com/dms/)
+- [Bancos de dados na AWS](https://aws.amazon.com/products/databases/)
+- [Aprofundamento na categoria: bancos de dados](https://aws.amazon.com/getting-started/deep-dive-databases/)
+- [Blog de bancos de dados na AWS](https://aws.amazon.com/blogs/database/)
+- [Histórias de clientes da AWS: bancos de dados](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23databases&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
