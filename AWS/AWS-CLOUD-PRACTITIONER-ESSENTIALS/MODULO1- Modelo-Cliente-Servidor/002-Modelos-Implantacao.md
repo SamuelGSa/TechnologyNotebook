@@ -8,4 +8,3 @@ conhecida também como implantação de nuvem privada. Os recursos são implanta
 
 ## Hibrida
 Os recursos baseados na nuvem ficam conectados a infraestrutura local
-

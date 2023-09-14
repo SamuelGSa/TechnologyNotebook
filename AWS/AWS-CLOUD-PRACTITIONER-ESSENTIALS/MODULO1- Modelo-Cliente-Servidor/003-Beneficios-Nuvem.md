@@ -6,4 +6,3 @@
 - Beneficie-se de enormes economias de escala
 - Aumente a velocidade e a agilidade
 - ter alcance global em minutos
-
